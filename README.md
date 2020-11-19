@@ -1,6 +1,6 @@
 ### Hi, my name is Laura 👋
 
-I'm a front-end developer currently living in Sao Paulo, Brazil.
+I'm a front-end developer currently living in Sao Paulo, Brazil. My passion with design started when I was just a young girl. My favorite part of designing is to go beyond the artistic limit with technique and technology.
 
 <!--
 **madalossolaura/madalossolaura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
