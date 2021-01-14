@@ -1,4 +1,4 @@
-### Hi, my name is Laura 👋
+### Hi, my name is Laura <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm a front-end developer currently living in Sao Paulo, Brazil. My passion with design started when I was just a young girl. My favorite part of designing is to go beyond the artistic limit with technique and technology.
 
